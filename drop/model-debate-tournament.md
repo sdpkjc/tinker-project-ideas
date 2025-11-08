@@ -122,3 +122,4 @@ From each debate, extract:
 **Adversarial debate**: Some debates have adversarial setups where models are rewarded for winning rather than truth-finding—study how this affects training dynamics
 
 This project combines ideas from multi-agent debate, ensemble learning, model distillation, and game theory, potentially revealing new ways to extract value from diverse model populations.
+

@@ -20,3 +20,4 @@ Extensions:
 - Compare supervised learning vs. RL on synthetic data of varying quality
 
 This would provide practical guidance for practitioners on how to allocate their data generation budget and could reveal fundamental principles about how models learn from imperfect demonstrations.
+

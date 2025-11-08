@@ -53,3 +53,4 @@ This could be implemented in the [Tinker Cookbook](https://github.com/thinking-m
 - **Transfer learning**: Does a curriculum learned on one domain transfer to other domains?
 
 This could significantly improve training efficiency for RLAIF and lead to better final policies, especially for domains with highly variable task difficulty.
+

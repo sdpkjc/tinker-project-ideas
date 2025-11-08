@@ -17,3 +17,4 @@ Key research questions:
 - Can the policy learn to internalize the debate process over time?
 
 This could be tested on domains like math problem solving, code generation, or creative writing, where there are multiple valid approaches and the debate process can reveal trade-offs.
+

@@ -12,3 +12,4 @@ The original noisy student algorithms added noise (e.g., dropout) to the student
 
 As variations on the above process, one could also replace one or more of the RL steps with supervised learning (distillation). A couple of related recent papers explore self-training ideas in LLMs / RLVR, using the majority vote as a RL signal: [Can Large Reasoning Models Self-Train?
 ](https://arxiv.org/abs/2505.21444) and [Test Time RL](https://arxiv.org/abs/2504.16084).
+

@@ -7,3 +7,4 @@ However, we can also do some experiments to sanity-check the theory. In particul
 Set up an environment where there's a latent random number, where the policy must memorize the number to maximize reward. How many episodes does it take for the policy to memorize that number, using a binary or continuous reward? How does this match up with the information theoretical argument?
 
 Going beyond this case, try to set up a testbed for memorization, and compare the information absorption rates of supervised learning, reinforcement learning with an end-of-episode reward, and reinforcement learning with a per-step reward.
+

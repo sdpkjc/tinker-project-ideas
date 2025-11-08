@@ -129,3 +129,4 @@ Using the [Tinker Cookbook](https://github.com/thinking-machines-lab/tinker-cook
 - **Per-user decomposition**: Combined with meta-learning for personalization, allow users to have custom dimension weights
 
 This could make RLHF more modular, interpretable, and controllable, addressing some of the brittleness and opacity of current monolithic reward models.
+
